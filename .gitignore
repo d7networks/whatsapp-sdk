@@ -1,0 +1,6 @@
+.venv
+app.ipynb
+template.ipynb
+.idea
+.vscode
+*.pyc
